@@ -1,5 +1,5 @@
 ### Activity description: what were the expectations and what did you do?
-  Me and the rest of my team of 4 meet up on zoom at 9am, one hour before our time block opened. Once the competition started we reviewed the mission documents they provided. The senario were placed into was that of a government defense team in charge of deactivating attacking drones. To do this we were to gain remote access to to the attackers devices and work from there.
+  Me and the rest of my team of 4 meet up on discord call at 9am, one hour before our time block opened. Once the competition started we reviewed the mission documents they provided. The senario we were placed into was that of a government defense team in charge of deactivating attacking drones. To do this we were to gain remote access to to the attackers devices and work from there.
   
 ### Technical decisions: what decisions did you take from a technical perspective throughout this activity/event?
   One of the hints given was to use the sliver framework to gain remote access to the attackers systems. I took main charge on using sliver since my teammates had less technical experience then me. My teammates focused on planning our defensive steps or helping me dig through sliver documentation.
